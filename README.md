@@ -54,4 +54,5 @@ The naive solution is intended to be a service running at scheduled times and/or
 To run the application do the following step:
 
 1. Install Rust (see [How to install Rust](https://www.rust-lang.org/tools/install))
-2. Move to the root folder of this repository and execute `cargo run`
+2. Add an API key to use Alchemy
+3. Move to the root folder of this repository and execute `cargo run`

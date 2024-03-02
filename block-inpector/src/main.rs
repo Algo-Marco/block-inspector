@@ -5,7 +5,7 @@ use std::ops::SubAssign;
 async fn main() {
     // Setup application
     let provider = Provider::<Http>::try_from(
-        "https://eth-sepolia.g.alchemy.com/v2/AaZMdLCWEefdWg-LDnqqVmWGvlhMw_Cz",
+        "https://eth-sepolia.g.alchemy.com/v2/...",
     )
     .expect("HTTP Provider should be created successfully.");
     // Define parameters
